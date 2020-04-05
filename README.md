@@ -15,11 +15,11 @@ In the last week I made my version of hand washing timer with:
 
 Here is the electronic diagram:
 
-![electronic diagram]("https://github.com/Mauroalfieri/HandWashTimer/blob/master/images/HandWashTimercircuit.jpg")
+![electronic diagram](images/HandWashTimercircuit.jpg)
 
 and this is an example wich how to mountit:
 
-![electronic mount]("https://github.com/Mauroalfieri/HandWashTimer/blob/master/images/HandWashTimercircuitmounted.jpg")
+![electronic mount](images/HandWashTimercircuitmounted.jpg)
 
 ### 3D printed parts
 
@@ -33,19 +33,19 @@ The project consists of three parts:
 
 It's contain the battery holder fro 4 battery AA type, the electronics ( attiny85,dc-dc step down, neopixel ring and cables):
 
-![handWashTimer Base]("https://github.com/Mauroalfieri/HandWashTimer/blob/master/images/handWashTimerBase.png")
+![handWashTimer Base](images/handWashTimerBase.png)
 
 #### handWashTimer Cover
 
 It's contain the mini pir sensor and power micro switch:
 
-![handWashTimer Cover]("https://github.com/Mauroalfieri/HandWashTimer/blob/master/images/handWashTimerCover.png")
+![handWashTimer Cover](images/handWashTimerCover.png)
 
 #### handWashTimer Holder
 
 It's the support for the hand washing timer:
 
-![handWashTimer Holder]("https://github.com/Mauroalfieri/HandWashTimer/blob/master/images/handWashTimerHolder.png")
+![handWashTimer Holder](images/handWashTimerHolder.png)
 
 ### ProjectFile
 
